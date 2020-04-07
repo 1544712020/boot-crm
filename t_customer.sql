@@ -30,7 +30,7 @@ CREATE TABLE `t_customer` (
 -- ----------------------------
 -- Records of t_customer
 -- ----------------------------
-INSERT INTO `t_customer` VALUES ('1', '刘为中', '学生', '123');
+INSERT INTO `t_customer` VALUES ('1', 'Lw中', '学生', '123');
 INSERT INTO `t_customer` VALUES ('2', '李白', '诗人', '456');
 INSERT INTO `t_customer` VALUES ('3', '王维', '诗人', 'qwe');
 INSERT INTO `t_customer` VALUES ('4', 'zhangsan', 'manager', '13233334444');
