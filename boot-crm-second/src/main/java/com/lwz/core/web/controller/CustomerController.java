@@ -1,0 +1,25 @@
+package com.lwz.core.web.controller;
+
+import com.lwz.core.po.Customer;
+import com.lwz.core.service.CustomerService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class CustomerController {
+    @Autowired
+    private CustomerService customerService;
+    /**
+     * 根据id查询客户详情
+     */
+    @RequestMapping("/findCustomerById")
+    public String findCustomerById(Integer id, Model model) {
+        // 通过下面这条代码，将执行MyBatis的Mapper映射文件来查询id号为多少的相关信息
+        Customer customer = customerService.findCustomerById(id);
+        model.addAttribute("customer", customer);
+        //返回客户信息展示页面
+        return "customer1";
+    }
+}
