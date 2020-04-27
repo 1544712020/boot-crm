@@ -1,7 +1,7 @@
 # boot-crm
 
 #### 介绍
-用于管理Maven+IDEA+SSM开发的BOOT客户管理系统。后台使用SSM框架，前台使用Bootstrap和jQuery以及JSP完成页面展示功能。系统主要实现了两大功能模块：用户登录模块和客户管理模块，这两个模块的主要功能如下图所示：
+用于管理Maven+IDEA+SSM开发的BOOT客户管理系统。后台使用SSM框架，前台使用Bootstrap和jQuery以及JSP完成页面展示功能。此项目没有实现前后端异步交互更新。项目主要实现了两大功能模块：用户登录模块和客户管理模块，这两个模块的主要功能如下图所示：
 ![系统功能结构](https://images.gitee.com/uploads/images/2020/0407/154053_065cecb5_6533994.png "客户管理系统.png")
 
 #### 软件架构
@@ -12,7 +12,7 @@
 - 业务逻辑层：该层由Service接口和实现类组成
 - Web表现层：该层由SpringMVC中的Controller类和JSP页面组成
 
-#### 系统开发以及运行环境
+#### 项目开发以及运行环境
 - 操作系统：Windows
 - Web服务器：Tomcat
 - Java开发包：JDK
