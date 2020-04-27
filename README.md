@@ -48,6 +48,9 @@
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0417/164452_d884f08b_6533994.png "屏幕截图.png")
 
+#### 前后端交互流程图
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0427/220647_11380187_6533994.png "屏幕截图.png")
+
 #### 码云特技
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
