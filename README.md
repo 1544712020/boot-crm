@@ -52,11 +52,28 @@
 #### 前后端交互流程图
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0427/220647_11380187_6533994.png "屏幕截图.png")
 
-#### 码云特技
+#### 项目截图
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+登录页面
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0513/174237_ebbe93ec_6533994.jpeg "登录页面.jpg")
+
+主页
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0513/174246_96b5f6e6_6533994.jpeg "主页.jpg")
+
+添加
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0513/174255_6c9a1fcd_6533994.jpeg "添加.jpg")
+
+修改
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0513/174307_eb5d7073_6533994.jpeg "修改.jpg")
+
+查询
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0513/174315_4a3edf58_6533994.jpeg "查询模块.jpg")
+
+删除
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0513/174329_321e8414_6533994.jpeg "删除.jpg")
