@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
-        "http://mybatis.org/dtd/mybatis-3-config.dtd">
-<configuration>
-    <!-- 别名定义（此种定义别名的方式无需声明别名，别名就是pojo类的小写字母类名） -->
-    <typeAliases>
-        <package name="com.lwz.core.po" />
-    </typeAliases>
-</configuration>
